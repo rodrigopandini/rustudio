@@ -1,0 +1,11 @@
+Model Information:
+* title:	Vehicle Robot with a crab leg Animation
+* source:	https://sketchfab.com/3d-models/vehicle-robot-with-a-crab-leg-animation-9e3a2ea88e34469486f5616cefbbf844
+* author:	3DHArt (https://sketchfab.com/3dhart)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Vehicle Robot with a crab leg Animation" (https://sketchfab.com/3d-models/vehicle-robot-with-a-crab-leg-animation-9e3a2ea88e34469486f5616cefbbf844) by 3DHArt (https://sketchfab.com/3dhart) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
